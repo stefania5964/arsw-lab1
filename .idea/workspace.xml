@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f123edc4-4f0c-4aa1-bbdd-77fab04f6e24" name="Changes" comment="">
+    <list default="true" id="753a3630-923f-45bc-9b57-4bfb474b0b22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/threads/CountThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/threads/CountThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/threads/CountThreadsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/threads/CountThreadsMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +36,49 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/stefania.giraldo/Documents/Parallelism-JavaThreads-Introduction",
+    "last_opened_file_path": "A:/Documentos/8semestre/arsw/arsw-lab1",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CountThreadsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.eci.arsw.threads.CountThreadsMain" />
+      <module name="PiDigits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.arsw.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="arsw-lab1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="arsw-lab1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountThreadsMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f123edc4-4f0c-4aa1-bbdd-77fab04f6e24" name="Changes" comment="" />
+      <changelist id="753a3630-923f-45bc-9b57-4bfb474b0b22" name="Changes" comment="" />
       <created>1674654393040</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
